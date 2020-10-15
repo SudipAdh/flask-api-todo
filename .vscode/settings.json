@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/sudip/Desktop/flask_api/flaskenv/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ]
+}
